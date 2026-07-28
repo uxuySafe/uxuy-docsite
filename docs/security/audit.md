@@ -11,7 +11,11 @@ keywords: [audit, security audit, smart contract audit, fund security, hot and c
 
 UXUY core contracts are audited by independent third-party security firms, and the audit reports are publicly available.
 
-Details: [https://docs.uxuy.com/security/audit/](https://docs.uxuy.com/security/audit/)
+## Audit Reports
+
+- [Uxuy Swap - SlowMist Audit Report](/assets/security/SlowMist-Audit-Report-UXUY-Protocol-Phase2.pdf) ![pdf](/img/PDF-red.svg)
+- [Uxuy Smart Pool - SlowMist Audit Report](/assets/security/UxuySmartPool-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
+- [UXUY Smart Wallet - SlowMist Audit Report](/assets/security/UXUYSmartWallet-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
 
 ## Fund Security
 

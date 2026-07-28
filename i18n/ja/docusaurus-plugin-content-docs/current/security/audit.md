@@ -11,7 +11,11 @@ keywords: [監査, セキュリティ監査, スマートコントラクト監�
 
 UXUY のコアコントラクトは独立した第三者セキュリティ機関による監査を受けており、監査レポートは公開されています。
 
-詳細：[https://docs.uxuy.com/security/audit/](https://docs.uxuy.com/security/audit/)
+## 監査レポート
+
+- [Uxuy Swap - SlowMist Audit Report](/assets/security/SlowMist-Audit-Report-UXUY-Protocol-Phase2.pdf) ![pdf](/img/PDF-red.svg)
+- [Uxuy Smart Pool - SlowMist Audit Report](/assets/security/UxuySmartPool-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
+- [UXUY Smart Wallet - SlowMist Audit Report](/assets/security/UXUYSmartWallet-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
 
 ## 資金の安全性
 

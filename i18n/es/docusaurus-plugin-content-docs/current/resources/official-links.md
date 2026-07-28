@@ -17,7 +17,7 @@ A continuación se indican los enlaces oficiales de UXUY:
 | Página de descarga de la aplicación | [https://www.uxuy.com/download](https://www.uxuy.com/download) |
 | Cuenta oficial en X | [https://x.com/uxuycom](https://x.com/uxuycom) |
 | Comunidad oficial de Telegram | [https://t.me/UXUYen](https://t.me/UXUYen) |
-| Recursos de marca | [https://docs.uxuy.com/contact-us/brand-logo/](https://docs.uxuy.com/contact-us/brand-logo/) |
+| Recursos de marca | [https://docs.uxuy.com/contact-us/brand-logo/](../contact-us/brand-logo.md) |
 
 :::warning Aviso antifraude
 Obtenga información de UXUY y descargue los paquetes de instalación únicamente a través de los canales oficiales indicados anteriormente. El servicio de atención al cliente oficial de UXUY nunca solicitará por mensaje privado que transfiera fondos a direcciones desconocidas, ni pedirá claves privadas, frases semilla o códigos de verificación.

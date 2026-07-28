@@ -17,7 +17,7 @@ keywords: [官方链接, 官网, 下载, Telegram, X, 品牌素材]
 | App 下载页面 | [https://www.uxuy.com/download](https://www.uxuy.com/download) |
 | 官方 X 账号 | [https://x.com/uxuycom](https://x.com/uxuycom) |
 | 官方 Telegram 社区 | [https://t.me/UXUYen](https://t.me/UXUYen) |
-| 品牌素材 | [https://docs.uxuy.com/contact-us/brand-logo/](https://docs.uxuy.com/contact-us/brand-logo/) |
+| 品牌素材 | [https://docs.uxuy.com/contact-us/brand-logo/](../contact-us/brand-logo.md) |
 
 :::warning 防诈提示
 请仅通过上述官方渠道获取 UXUY 信息与下载安装包。UXUY 官方客服不会通过私信要求用户向陌生地址转账，也不会索取私钥、助记词或验证码。

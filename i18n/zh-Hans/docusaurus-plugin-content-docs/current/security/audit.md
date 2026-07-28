@@ -11,7 +11,11 @@ keywords: [审计, 安全审计, 智能合约审计, 资金安全, 冷热钱包]
 
 UXUY 核心合约由独立第三方安全机构审计，审计报告公开可查。
 
-详情：[https://docs.uxuy.com/security/audit/](https://docs.uxuy.com/security/audit/)
+## 审计报告
+
+- [Uxuy Swap - SlowMist Audit Report](/assets/security/SlowMist-Audit-Report-UXUY-Protocol-Phase2.pdf) ![pdf](/img/PDF-red.svg)
+- [Uxuy Smart Pool - SlowMist Audit Report](/assets/security/UxuySmartPool-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
+- [UXUY Smart Wallet - SlowMist Audit Report](/assets/security/UXUYSmartWallet-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
 
 ## 资金安全
 

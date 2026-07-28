@@ -11,7 +11,11 @@ keywords: [kiểm toán, kiểm toán bảo mật, kiểm toán hợp đồng th
 
 Các hợp đồng cốt lõi của UXUY được kiểm toán bởi các tổ chức bảo mật độc lập bên thứ ba, báo cáo kiểm toán được công khai để tra cứu.
 
-Chi tiết: [https://docs.uxuy.com/security/audit/](https://docs.uxuy.com/security/audit/)
+## Báo cáo kiểm toán
+
+- [Uxuy Swap - SlowMist Audit Report](/assets/security/SlowMist-Audit-Report-UXUY-Protocol-Phase2.pdf) ![pdf](/img/PDF-red.svg)
+- [Uxuy Smart Pool - SlowMist Audit Report](/assets/security/UxuySmartPool-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
+- [UXUY Smart Wallet - SlowMist Audit Report](/assets/security/UXUYSmartWallet-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
 
 ## An toàn tài sản
 

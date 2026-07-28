@@ -11,7 +11,11 @@ keywords: [감사, 보안 감사, 스마트 컨트랙트 감사, 자금 안전, 
 
 UXUY 핵심 컨트랙트는 독립적인 제3자 보안 기관의 감사를 받았으며, 감사 보고서는 공개되어 열람할 수 있습니다.
 
-자세한 내용: [https://docs.uxuy.com/security/audit/](https://docs.uxuy.com/security/audit/)
+## 감사 보고서
+
+- [Uxuy Swap - SlowMist Audit Report](/assets/security/SlowMist-Audit-Report-UXUY-Protocol-Phase2.pdf) ![pdf](/img/PDF-red.svg)
+- [Uxuy Smart Pool - SlowMist Audit Report](/assets/security/UxuySmartPool-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
+- [UXUY Smart Wallet - SlowMist Audit Report](/assets/security/UXUYSmartWallet-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
 
 ## 자금 안전
 

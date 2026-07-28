@@ -17,7 +17,7 @@ keywords: [официальные ссылки, официальный сайт,
 | Страница загрузки приложения | [https://www.uxuy.com/download](https://www.uxuy.com/download) |
 | Официальный аккаунт в X | [https://x.com/uxuycom](https://x.com/uxuycom) |
 | Официальное сообщество в Telegram | [https://t.me/UXUYen](https://t.me/UXUYen) |
-| Брендовые материалы | [https://docs.uxuy.com/contact-us/brand-logo/](https://docs.uxuy.com/contact-us/brand-logo/) |
+| Брендовые материалы | [https://docs.uxuy.com/contact-us/brand-logo/](../contact-us/brand-logo.md) |
 
 :::warning Предупреждение о мошенничестве
 Получайте информацию о UXUY и загружайте установочные файлы только через указанные выше официальные каналы. Официальная служба поддержки UXUY никогда не просит пользователей переводить средства на незнакомые адреса через личные сообщения и не запрашивает приватные ключи, сид-фразы или коды подтверждения.

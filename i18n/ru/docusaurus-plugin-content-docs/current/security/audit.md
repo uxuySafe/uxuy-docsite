@@ -11,7 +11,11 @@ keywords: [аудит, аудит безопасности, аудит смар�
 
 Основные контракты UXUY прошли аудит независимых сторонних организаций по безопасности, отчёты об аудите общедоступны.
 
-Подробнее: [https://docs.uxuy.com/security/audit/](https://docs.uxuy.com/security/audit/)
+## Аудиторские отчёты
+
+- [Uxuy Swap - SlowMist Audit Report](/assets/security/SlowMist-Audit-Report-UXUY-Protocol-Phase2.pdf) ![pdf](/img/PDF-red.svg)
+- [Uxuy Smart Pool - SlowMist Audit Report](/assets/security/UxuySmartPool-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
+- [UXUY Smart Wallet - SlowMist Audit Report](/assets/security/UXUYSmartWallet-SlowMistAuditReport.pdf) ![pdf](/img/PDF-red.svg)
 
 ## Безопасность средств
 
