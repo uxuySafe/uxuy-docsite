@@ -139,3 +139,7 @@ table thead tr{
 .docSidebarContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Sidebar-styles-module{
   border-right: 1px solid #40404A !important;
 }
+
+.menu__list-item.supplemental-doc {
+  display: none;
+}
