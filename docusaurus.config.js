@@ -150,6 +150,7 @@ const config = {
               '/uxuy-connect/solanaconnect',
               '/uxuy-connect/tronconnect',
               '/uxuy-connect/metamaskstandard',
+              '/dapp-terms-of-use',
             ],
           },
         ],
