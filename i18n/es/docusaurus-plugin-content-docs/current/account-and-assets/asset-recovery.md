@@ -23,4 +23,4 @@ La función de recuperación de activos se aplica a determinados casos concretos
 No facilite nunca sus claves privadas, frases semilla ni códigos de verificación a miembros de la comunidad ni a cuentas de atención al cliente no oficiales.
 :::
 
-Para conocer los pasos detallados, consulte la «Guía de recuperación de activos».
+Para conocer los pasos detallados, consulte la [«Guía de recuperación de activos»](../asset-recovery-guide.md).

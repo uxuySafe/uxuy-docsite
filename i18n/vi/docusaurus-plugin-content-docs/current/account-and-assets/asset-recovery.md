@@ -23,4 +23,4 @@ Tính năng khôi phục tài sản áp dụng cho một số trường hợp c�
 Tuyệt đối không cung cấp khóa riêng tư, cụm từ khôi phục hoặc mã xác minh cho các thành viên cộng đồng hoặc tài khoản hỗ trợ khách hàng không chính thức.
 :::
 
-Các bước thao tác chi tiết vui lòng tham khảo《Hướng dẫn khôi phục tài sản》.
+Các bước thao tác chi tiết vui lòng tham khảo [《Hướng dẫn khôi phục tài sản》](../asset-recovery-guide.md).

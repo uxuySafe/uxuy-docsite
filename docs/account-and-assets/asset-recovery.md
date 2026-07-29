@@ -23,4 +23,4 @@ Asset Recovery applies to certain specific situations, such as when a user trans
 Never provide private keys, recovery phrases or verification codes to community members or unofficial support accounts.
 :::
 
-For detailed instructions, please refer to the Asset Recovery Guide.
+For detailed instructions, please refer to the [Asset Recovery Guide](../asset-recovery-guide.md).
